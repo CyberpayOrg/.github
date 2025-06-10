@@ -17,9 +17,9 @@
   </ul>
 </div>
 <div align="center">
-  <a href="https://docs.cyberpay.org"><b>Docs</b></a>  | 
-  <a href="https://docs.cyberpay.org/api/overview"><b>API</b></a> |
-  <a href="https://docs.cyberpay.org/sdk/getting-started"><b>SDK</b></a>
+  <a target="_blank" href="https://docs.cyberpay.org"><b>Docs</b></a>  | 
+  <a target="_blank" href="https://docs.cyberpay.org/api/overview"><b>API</b></a> |
+  <a target="_blank" href="https://docs.cyberpay.org/sdk/getting-started"><b>SDK</b></a>
 </div>
 <div align="center">
   <a href="https://x.com/cyberpayorg"><b>Follow on Twitter</b></a>
@@ -44,9 +44,9 @@
 </div>
 
 <div align="center">
-  <a href="https://cyberpay.org/"><b>Learn More</b></a>  | 
-  <a href="https://docs.cyberpay.org"><b>Docs</b></a>  | 
-  <a href="https://docs.cyberpay.org/api/overview"><b>API</b></a>
+  <a href="https://cyberpay.org/" target="_blank"><b>Learn More</b></a>  | 
+  <a href="https://docs.cyberpay.org" target="_blank"><b>Docs</b></a>  | 
+  <a href="https://docs.cyberpay.org/api/overview" target="_blank"><b>API</b></a>
 </div>
 
 <!-- <div align="center">
