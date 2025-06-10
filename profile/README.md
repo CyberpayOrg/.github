@@ -24,20 +24,31 @@
 <div align="center">
   <a href="https://x.com/cyberpayorg"><b>Follow on Twitter</b></a>
 </div>
+
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2><picture>
+    <summary>
+    <h2>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberpayOrg/.github/refs/heads/main/profile/logo.png">
-        <img alt="cyberpay logo" src="https://raw.githubusercontent.com/CyberpayOrg/.github/refs/heads/main/profile/logo.png" align="bottom" height="22"">
-      </picture> NFT</h2></summary>
+        <img 
+          alt="cyberpay logo" 
+          src="https://raw.githubusercontent.com/CyberpayOrg/.github/refs/heads/main/profile/logo.png" 
+          align="bottom" 
+          height="22""
+        >
+      </picture> 
+      </h2>
+      </summary>
   </ul>
 </div>
+
 <div align="center">
   <a href="https://cyberpay.org/"><b>Learn More</b></a>  | 
   <a href="https://docs.cyberpay.org"><b>Docs</b></a>  | 
   <a href="https://docs.cyberpay.org/api/overview"><b>API</b></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://twitter.com/@cyberpayorg"><b>Follow on Twitter</b></a>
-</div>
+</div> -->
