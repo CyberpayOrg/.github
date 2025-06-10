@@ -28,7 +28,7 @@
   <ul>
     <summary><h2><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberpayOrg/.github/refs/heads/main/profile/logo.png">
-        <img alt="relay logo" src="https://raw.githubusercontent.com/CyberpayOrg/.github/refs/heads/main/profile/logo.png" align="bottom" height="22"">
+        <img alt="cyberpay logo" src="https://raw.githubusercontent.com/CyberpayOrg/.github/refs/heads/main/profile/logo.png" align="bottom" height="22"">
       </picture> NFT</h2></summary>
   </ul>
 </div>
